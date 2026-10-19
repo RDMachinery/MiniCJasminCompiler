@@ -1,3 +1,5 @@
+![MiniC To Jasmin Compiler Illustration](minic_splash.jpg)
+
 # MiniC → Jasmin Compiler
 
 A small, single-file compiler that translates **MiniC**, a tiny C-like language, into [Jasmin](https://jasmin.sourceforge.net/) assembly for the Java Virtual Machine. It is written in plain Java with no dependencies, and is meant as a readable example of a complete compiler pipeline: lexer, recursive-descent parser, AST and code generator.
