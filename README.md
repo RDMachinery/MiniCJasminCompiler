@@ -199,7 +199,7 @@ Issues and pull requests are welcome. By submitting a contribution you agree tha
 
 ## Further Reading
 
-[Let's build a compiler for the JVM: in six parts]([https://medium.com/@mariogianota/lets-build-a-compiler-for-the-jvm-a-six-part-series-902b3e908672])
+[Let's build a compiler for the JVM: in six parts](https://medium.com/@mariogianota/lets-build-a-compiler-for-the-jvm-a-six-part-series-902b3e908672)
 
 ## License
 
