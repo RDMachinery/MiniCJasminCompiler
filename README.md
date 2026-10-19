@@ -197,6 +197,10 @@ Labels are numbered, so nested loops never collide.
 
 Issues and pull requests are welcome. By submitting a contribution you agree that it will be licensed under the same MIT License as the rest of the project.
 
+## Further Reading
+
+[Let's build a compiler for the JVM: in six parts](https://medium.com/@mariogianota/lets-build-a-compiler-for-the-jvm-a-six-part-series-902b3e908672?postPublishedType=initial)
+
 ## License
 
 This project is licensed under the **MIT License**. You may use, copy, modify, merge, publish, distribute, sublicense and sell copies of the software, provided that the copyright notice and this permission notice are included in all copies or substantial portions of the software.
